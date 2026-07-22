@@ -5,7 +5,7 @@
 /UnityEssentials/Library/
 /UnityEssentials/[Tt]emp/
 /UnityEssentials/[Oo]bj/
-/UnityEssentials/[Bb]uild/
+/[Bb]uild/
 /UnityEssentials/[Bb]uilds/
 /UnityEssentials/[Ll]ogs/
 /UnityEssentials/[Mm]emoryCaptures/
@@ -57,3 +57,4 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+Build.zip
